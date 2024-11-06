@@ -12,6 +12,8 @@ Notice: for having full access to the model approval will be required, therefore
 
 Follow these steps to set up and use the auto-annotation feature in connection with Doccano.
 
+Notice, please, first install the open-source software doccano.
+
 1. **Create an Auto-Labeling Configuration**  
    In Doccano, start by creating a new auto-labeling configuration.
 
