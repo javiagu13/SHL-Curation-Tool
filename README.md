@@ -1,3 +1,5 @@
+# SHL Autolabeling tool
+
 ### Step-by-Step Guide with Images
 
 Follow these steps to set up and use the auto-annotation feature in connection with Doccano.
