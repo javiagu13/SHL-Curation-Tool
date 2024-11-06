@@ -1,5 +1,13 @@
 # SHL Autolabeling tool
 
+Welcome to the SHL autolabeling tool. We use the open-source software doccano merged with our rule based and LLM based approach to automatically label Electronic Health Records (EHR).
+
+The following is the explanation of how to set up the installation.
+
+Notice: for having full access to the model approval will be required, therefore, please contact Smart Health Lab for the case.
+
+![Step 1: Create an Auto-Labeling Configuration](./assets/shl.png)
+
 ### Step-by-Step Guide with Images
 
 Follow these steps to set up and use the auto-annotation feature in connection with Doccano.
