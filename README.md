@@ -53,10 +53,16 @@ Follow these steps to set up and use the auto-annotation feature in connection w
    ]
    ```
 
+   ![Step 5: Add the Mapping Template](./assets/5.png)
+
 6. **Click on Finish**
    Complete the configuration by clicking "Finish".
 
+   ![Step 6: Click on Finish](./assets/6.png)
+
 7. **Return to Your Project and Start Auto-Labeling**
    Go back to your project, and you're ready to auto-label using the new configuration!
+
+   ![Step 7: Return to Your Project and Start Auto-Labeling](./assets/7.png)
 
 Your setup is now complete! You can start auto-labeling PHI in Doccano using either BERT or REGEX-based annotation pipelines.
